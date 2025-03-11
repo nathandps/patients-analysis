@@ -10,3 +10,5 @@ data = np.array([0,10,20,30])
 	mean=np.mean(data)
 	return mean
 
+print ("job done")
+
